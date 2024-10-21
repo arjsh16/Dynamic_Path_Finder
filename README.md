@@ -17,7 +17,7 @@ This project is a Python-based visual pathfinding tool that uses Dijkstra's Algo
 
 ### Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pathfinding-visualizer.git
+    git clone https://github.com/arjsh16/Dynamic_Path_Finder.git
     cd pathfinding-visualizer
 ## Future improvements
 - Adding support for more pathfinding algorithms (e.g., A*).
