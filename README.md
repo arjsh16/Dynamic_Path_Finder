@@ -19,6 +19,12 @@ This project is a Python-based visual pathfinding tool that uses Dijkstra's Algo
     ```bash
     git clone https://github.com/arjsh16/Dynamic_Path_Finder.git
     cd pathfinding-visualizer
+### Install dependencies(Make sure you have python 3 is installed):
+    ```bash
+    pip install pygame
+### Run the project:
+    ```bash
+    python main.py
 ## Future improvements
 - Adding support for more pathfinding algorithms (e.g., A*).
 - Allow users to dynamically place obstacles on the grid.
