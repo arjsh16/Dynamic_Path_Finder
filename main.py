@@ -4,7 +4,7 @@ import sys
 from dijkstra import *
 from graph import *
 
-width, height = 400, 450  # Increased height to make space for dropdown
+width, height = 400, 450 
 rows, cols = 10, 10
 cell_size = width // cols
 WHITE = (255, 255, 255)
