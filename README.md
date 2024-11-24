@@ -25,4 +25,3 @@ This project is a Python-based visual pathfinding tool that uses Dijkstra's Algo
 ## Future improvements
 - Adding support for more pathfinding algorithms (e.g., A*).
 - Allow users to dynamically place obstacles on the grid.
-- Add more grid sizes and performance optimization for larger grids.
